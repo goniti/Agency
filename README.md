@@ -1,2 +1,2 @@
-﻿# WEBSITE ONE PAGE: Travel Agency
+﻿# Website one page: Travel Agency
 # [DEMO](https://goniti.github.io/Agency/)
